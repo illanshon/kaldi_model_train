@@ -1,0 +1,392 @@
+1С a0 dj i0 n e1 s 
+1С a0 dj i1 n e1 s 
+1С-КА a0 dj i0 n e1 s k a0 
+1С-КЕ a0 dj i0 n e1 s kj i0 
+1С-КЕ a0 dj i1 n e1 s kj i0 
+1С-КИ a0 dj i0 n e1 s kj i0 
+1С-КОЙ a0 dj i0 n e1 s k a0 j 
+1С-КУ a0 dj i0 n e1 s k u0 
+2D d v a0 d e1 
+2ГИС t u0 gj i1 s 
+2ГИС d v a0 gj i1 s 
+3G t rj i0 d zh y1 
+4G ch i0 t y1 rj i0 d zh y1 
+A e1 j 
+A a1 
+ABC e1 j bj i0 sj i1 
+ADOBE a0 d o1 bj i0 
+ADOBE a0 d o1 p 
+ADVANCE y0 d v e1 n s 
+ADVANCE a0 d v a1 n s 
+ANDROID a0 n d r o1 i0 t 
+APP a1 p 
+APPLE e1 j p l 
+APPLE e1 p l 
+APTEKA a0 p tj e1 k a0 
+ASSOCIATED_PRESS a0 s a0 sh y0 e1 j t y0 t p r e1 s 
+ATP e1 j tj i1 pj i1 
+ATP a0 tj i1 pj i1 
+AUDI a1 u0 dj i0 
+AUTO a1 f t a0 
+BANK b a1 n k 
+BIOS bj i0 o1 s 
+BLUETOOTH b lj u0 t u1 s 
+BUBBLE b a1 b l 
+CAPITAL k e1 pj i0 t a0 l 
+CASH k e1 sh 
+CD sj i0 dj i1 
+CHROME h r o1 m 
+CLUB k l u0 p 
+CLUB k l a1 p 
+COM-ПОРТУ k o1 m p a0 r t u1 
+COM-ПОРТУ k o1 m p o1 r t u0 
+COMEDY k a1 mj i0 dj i0 
+CONNECT k a0 n e1 k t 
+CONNECTION k a0 n e1 k sh n 
+CONTROL k a0 n t r o1 l 
+CONTROL k o1 n t r a0 l 
+CONVERSION k a0 n vj o1 r sh n 
+CONVERSION k a0 n vj e1 r sh n 
+COVID k o1 vj i0 t 
+COVID k a0 vj i1 t 
+COVID-19 k o1 vj i0 dj i0 vj i0 t n a1 c y0 tj 
+COVID-19 k a0 vj i1 dj i0 vj i0 t n a1 c y0 tj 
+CS sj i0 e1 s 
+CTRL k o1 n t r y0 l 
+D dj i1 
+D d e1 
+DELETE d y0 lj i1 t 
+DNS d y0 n y0 e1 s 
+DOUBLE d a0 b e1 l 
+DS dj i0 a1 s 
+DS d e1 e1  s 
+E i1 
+E-MAIL j i0 m e1 i0 l 
+E-MAIL i0 m e1 i0 l 
+EASY i1 zj i0 
+ECO e1 k a0 
+END e1 n d 
+ENTER e1 nj tj i0 r 
+ENTER e1 nj t y0 r 
+ENTER e1 n t y0 r 
+ERROR e1 r a0 r 
+ERROR j i0 r o1 r 
+EXE-ШНИК y0 g z e1 sh nj i0 k 
+EXPLORER y0 k s p l o1 r y0 r 
+EXPRESS y0 k s p r e1 s 
+F3RAP y0 f t rj i0 r a1 p 
+F3TAIL e1 f t rj i0 t e1 j l a0 
+F3TAIL e1 f t rj i1 t e1 j lj i0 
+F3TAIL f t rj i0 t e1 j l a0 
+F3TAIL y0 f t rj i0 t e1 j l u0 
+F3TAIL e1 f t rj i1 t e1 j l a0 
+F3TAIL e1 f t rj i0 t e1 j l 
+FACEBOOK f e1 j z b u0 k 
+FACEBOOK f y0 j z b u1 k 
+FM y0 f e1 m 
+FREEDOM f rj i1 d a0 m 
+G d zh y0 
+GENIUS d zh y1 nj i0 u1 s 
+GMAIL g m a1 j l 
+GMAIL g m e1 j l 
+GMAIL d zh y0 m e1 i0 l 
+GOLD g o1 l t 
+GOLOSI g o1 l o1 s i0 
+GOOGLE g u1 g l 
+GOOGLE_PLAY g u1 g l p l e1 j 
+GPS d zh y0 pj i0 e1 s 
+GRAND g r a1 n d 
+GROUP g r u1 p 
+GT d zh y0 tj i1 
+GTIN d zh y0 tj i1 n 
+HAPPY h e1 pj i0 
+HDMI e1 j ch dj i0 y0 m a1 j 
+HDMI a0 zh dj i0 y0 m a1 j 
+HELLO h y0 l o1 u0 
+HOFF h o1 f 
+HOLD h o1 l t 
+HONDA h o1 n d a0 
+HTML e1 j ch tj i0 y0 m e1 l 
+HTML e1 j ch tj i0 y0 m e1 lj 
+HYUNDAI h u0 n d a1 j 
+HYUNDAI h u1 n d a0 j 
+HYUNDAI hj i0 n d a1 j 
+HYUNDAI hj o1 n d a0 j 
+HYUNDAI hj o1 n d a0 j i0 
+HYUNDAI hj o1 n d a0 j u0 
+HYUNDAI hj o1 n d y0 j u0 
+HYUNDAI hj u0 n d a1 j 
+HYUNDAI hj u0 n d a1 j u0 
+HYUNDAI hj u1 n d a0 j u0 
+HYUNDAI hj o1 n d a0 i0 
+I a1 j 
+ID a0 j dj i1 
+IKEA i0 kj e1 a0 
+IKEA i0 kj e1 j a0 
+IN i1 n 
+INSTAGRAM i0 n s t a0 g r a1 m 
+INTEL i1 n t y0 l 
+INTERNET i0 n t y0 r n e1 t 
+IP a0 j pj i1 
+IP-АДРЕС a0 j pj i1 a1 d rj i0 s 
+IP-ШКУ a0 j pj i1 sh k u0 
+IP-ШНИК a0 j pj i1 sh nj i0 k 
+IP-ШНИКОВ a0 j pj i1 sh nj i0 k a0 f 
+IPHONE a0 j f o1 n 
+IS i1 z 
+IT a0 j tj i1 
+IT-КОМПАНИИ a0 j tj i1 k a0 m p a1 nj i0 i0 
+IT-ШНЫХ a0 j tj i1 sh n y0 h 
+J d zh e1 j 
+KIA kj i1 a0 
+KIDS kj i1 c 
+KYOCERA kj i0 a0 sj e1 r a0 
+L-ТИРОКСИНА e1 l tj i0 r a0 k sj i1 n a0 
+LAN l a0 n 
+LANGUAGE l e1 n g u0 i0 d zh 
+LENOVO lj i0 n o1 v a0 
+LG e1 l d zh y0 
+LIFE l a1 j f 
+LINK lj i1 n k 
+LOST l o1 s t 
+LOTUS l o1 t u0 s 
+LTE e1 l t y0 j e1 
+M m e1 
+MAC m a1 k 
+MAGIC m e1 d zh i0 k 
+MAIL m a1 j l 
+MAIL m e1 i0 l 
+MARKET m a1 r kj i0 t 
+MASTERCARD m a0 sj tj i0 r k a1 r d 
+MD y0 m d e1 
+MICROSOFT m a1 j k r a0 s a0 f t 
+MICROSOFT m a0 j k r a0 s o1 f t 
+MODE m o1 d 
+NALOG nj a0 l o1 k 
+NET n e1 t 
+NFS y0 n e1 f sj i0 
+NO n o1 u0 
+OF o1 f 
+ON o1 n 
+ONE u0 a1 n 
+OS o1 e1 s 
+OTP o1 tj i1 pj i1 
+OUTLOOK a0 u0 t l u0 k 
+PARODONTAX p a0 r a0 d o1 n t y0 k s 
+PAY p e1 j 
+PAYPAL p e1 j p a1 l 
+PDF p y0 d y0 e1 f 
+PH e1 f 
+PH pj i0 e1 j ch 
+PH f 
+PLAY p l e1 j 
+PLAYSTATION p l y0 s t e1 j sh n 
+PLAYSTATION p l y0 j s t e1 sh n 
+PLAY_MARKET p l e1 j m a1 r kj i0 t 
+PLAY_MARKET p l y0 j m a1 r kj i0 tj 
+PLEASE p lj i1 s 
+PLUS p lj u1 s 
+POINT p o1 i0 n t 
+POWER p a0 u0 y0 r 
+PRINT p rj i1 n t 
+PRINTSCREEN p rj i0 n t s k rj i1 n 
+PRO p r o1 
+PUSH p u1 sh 
+QIWI k i0 vj i0 
+QR k j u0 a1 r 
+QR k u0 a1 r 
+QR-КОД k u0 a0 r k o1 t 
+QR-КОД k j u0 a0 r k o1 t 
+QR-КОД kj u0 a0 r k o1 t 
+QR-КОДА k u0 a1 r k o1 d a0 
+QR-КОДА kj j u0 a1 r k o1 d a0 
+QR-КОДОМ kj j u0 a1 r k o1 d a0 m 
+QR-КОДОМ k u0 a1 r k o1 d a0 m 
+QR-КОДУ k u0 a0 r k o1 d u0 
+QR-КОДУ k j u0 a1 r k o1 d u0 
+R a0 r 
+R r e1 
+R e1 r 
+RESEARCH rj i0 sj o1 ch 
+RESET rj i0 s e1 t 
+S e1 s 
+SAMSUNG s a0 m s u1 n k 
+SBERBANK z bj i0 r b a1 n k 
+SCREEN s k rj i1 n 
+SELECT sj i0 lj e1 k t 
+SETTINGS s e1 tj i1 n k s 
+SHARE sh e1 a0 
+SHIFT sh i1 f t 
+SIMPLE s i1 m p l 
+SKYPE s k a1 j p 
+SLASH s l e1 sh 
+SMM e1 s y0 m e1 m 
+SONY s o1 nj i0 
+SORRY s o1 rj i0 
+SSD e1 s y0 z d e1 
+SSD-ШКА y0 s y0 z d e1 sh k a0 
+SSD-ШКИ y0 s y0 z d e1 sh kj i0 
+SSD-ШКУ y0 s y0 z d e1 sh k u0 
+START s t a0 r t 
+STEAM sj tj i1 m 
+STORE s t o1 r 
+SUNFEEL s a0 n fj i1 l 
+SWITCH s vj i0 ch 
+T t 
+T tj i0 
+TANKS t e1 n k s 
+TANKS t a1 n k s 
+TELE2 tj i0 lj i0 d v a1 
+TELEGRAM tj i0 lj i0 g r a1 m 
+THE z e1 
+TIME t a1 j m 
+TO t a0 
+TO t o1 
+TOUCH t a1 ch 
+TOYOTA t a0 j o1 t a0 
+TV-ПРИСТАВКАХ t y0 v e1 p rj i0 s t a1 f k a0 h 
+TV-ПРИСТАВКАХ tj i0 vj i1 p rj i0 s t a1 f k a0 h 
+U u1 
+U j u1 
+UPS-НИК j u0 pj i0 e1 sj nj i0 k 
+UPS-НИК u0 p y0 e1 sj nj i0 k 
+USB j u0 y0 z bj i1 
+USB-РАЗЪЁМА j u0 y0 z bj i1 r a0 z j o1 m a0 
+USB-ШНИК j u0 y0 z bj i1 sh nj i0 k 
+USB-ШНЫЙ j u0 y0 z bj i1 sh n y0 j 
+USER j u1 zj i0 r 
+V vj i0 
+VENSI vj e1 n sj i0 
+VIBER v i1 bj i0 r 
+VIBER v a1 j bj i0 r 
+VIEW v j u1 
+VIP vj i0 a0 j pj i1 
+VIP vj i1 p 
+VISA vj i1 z a0 
+VOLKSWAGEN f o1 lj k s v a1 gj i0 n 
+VPN v y0 p y0 e1 n 
+VPN vj i0 pj i0 e1 n 
+W d a0 b a1 l j u1 
+W d a0 b a1 l u0 
+W d a0 b a1 lj j u0 
+W d a0 b a1 lj u0 
+W d a0 b e1 l j u0 
+W d a0 b e1 l j u1 
+W d a0 b e1 l u0 
+W d a0 b e1 lj u0 
+W d a0 b l j u1 
+WAP v a1 p 
+WEB v e1 p 
+WHATSAPP v a1 c a1 p 
+WIFI v a0 j f a1 j 
+WILDBERRIES v a1 j l bj i0 rj i1 s 
+WIN u0 i1 n 
+WIN vj i1 n 
+WINDOWS vj i1 n d a0 f s 
+WINDOWS vj i1 n d a0 s 
+WORD v a0 r dj e1 j i0 
+WORD v o1 r d 
+WORD v o1 r dj i0 
+WORD v o1 r d a0 m 
+WORD v o1 r d u0 
+WORD v o1 r d a0 
+WORD v o1 r t 
+WORLD v o1 l t 
+WORLD v o1 r l t 
+WWW d a1 b l j u0 d a1 b l j u0 d a1 b l j u0 
+WWW v y0 v y0 v e1 
+XML i0 k s y0 m e1 lj 
+Y u0 a0 j 
+Y i1 g rj i0 k 
+YANDEX j a1 n d y0 k s 
+YOTA j o1 t a0 
+YOUTUBE j u0 tj u1 p 
+YOUTUBE j u0 t u1 p 
+ZOOM z u1 m 
+Ё j o1 
+Ё-МОЁ j o1 m a0 j o1 
+Ё-МОЁ-ТО j o1 m a0 j o1 t a0 
+Ё-МОБАЙЛ j o1 m a0 b a1 j l 
+ЁБ j o1 p 
+ЁБАН j o1 b a0 n 
+ЁБАНА j o1 b a0 n a0 
+ЁБАНАЯ j i0 b a1 n a0 j a0 
+ЁБАНАЯ j o1 b a0 n a0 j a0 
+ЁБАННАЯ j o1 b a0 n a0 
+ЁБАННАЯ j o1 b a0 n a0 j a0 
+ЁБАННОЙ j o1 b a0 n a0 j 
+ЁБАННЫЕ j o1 b a0 n y0 j i0 
+ЁБАННЫЙ j o1 b a0 n y0 j 
+ЁБАНЫЕ j o1 b a0 n y0 j i0 
+ЁБАНЫЙ j i0 b a1 n y0 j 
+ЁБАНЫЙ j o1 b a0 n y0 j 
+ЁБАНЫМ j o1 b a0 n y0 m 
+ЁБАНЫХ j o1 b a0 n y0 h 
+ЁБНУ j o1 b n u0 
+ЁБНУЛАСЬ j o1 b n u0 l a0 sj 
+ЁБНУЛИСЬ j o1 b n u0 lj i0 sj 
+ЁБНУЛСЯ j i0 b n u1 l sj a0 
+ЁБНУЛСЯ j o1 b n u0 l sj a0 
+ЁБНУТАЯ j o1 b n u0 t a0 j a0 
+ЁБНУТОЕ j o1 b n u0 t a0 j i0 
+ЁБНУТЫЕ j o1 b n u0 t y0 j i0 
+ЁБНУТЫЙ j o1 b n u0 t y0 j 
+ЁБНУТЬСЯ j o1 b n u0 c a0 
+ЁБТАТЬ j o1 p t a0 tj 
+ЁГНА j o1 g n a1 
+ЁГНА j o1 g n a0 
+ЁЖ j o1 sh 
+ЁЖИК j o1 zh y0 k 
+ЁЖКИН j o1 sh kj i0 n 
+ЁЖКИНА j o1 sh kj i0 n a0 
+ЁКАРНЫЙ j o1 k a0 r n y0 j 
+ЁКЛМН j o1 k l m n 
+ЁКНУЛ j o1 k n u0 l 
+ЁКНУЛО j o1 k n u0 l a0 
+ЁКСЕЛЬ-МОКСЕЛЬ j o1 k sj i0 lj m a0 k sj e1 lj 
+ЁКСЕЛЬ-МОКСЕЛЬ j o1 k sj i0 lj m o1 k sj i0 lj 
+ЁКСЕЛЬ-МОКСЕЛЬ j o1 k sj i0 lj m a0 k sj i0 lj 
+ЁЛКА j o1 l k a0 
+ЁЛКЕ j o1 l kj i0 
+ЁЛКИ j o1 l kj i0 
+ЁЛКИ-ИГОЛКИ j o1 l kj i0 i0  g a0 l kj i0 
+ЁЛКИ-ИГОЛКИ j o1 l kj i0 i0  g a0 l kj i1 
+ЁЛКИ-ИГОЛКИ j o1 l kj i0 i0  g o1 l kj i0 
+ЁЛКИ-МОТАЛКИ j o1 l kj i0 m a0 t a1 l kj i0 
+ЁЛКИ-ПАЛКИ j o1 l kj i0 p a1 l kj i0 
+ЁЛКИН j o1 l kj i0 n 
+ЁЛКИНА j o1 l kj i0 n a0 
+ЁЛКИНЫ j o1 l kj i0 n y0 
+ЁЛКОЙ j o1 l k a0 j 
+ЁЛКУ j o1 l k u0 
+ЁЛНАТСКОГО j o1 l n a0 c k a0 v a0 
+ЁЛОК j o1 l a0 k 
+ЁЛОЧКА j o1 l a0 ch k a0 
+ЁЛОЧКИ j o1 l a0 ch kj i0 
+ЁЛОЧКУ j o1 l a0 ch k u0 
+ЁЛОЧНОЕ j o1 l a0 ch n a0 j i0 
+ЁЛОЧНЫЕ j o1 l a0 ch n y0 j i0 
+ЁЛОЧНЫЙ j o1 l a0 ch n y0 j 
+ЁЛЫ-ПАЛЫ j o1 l y0 p a1 l y0 
+ЁМКИЙ j o1 m kj i0 j 
+ЁМКИМ j o1 m kj i0 m 
+ЁМКО j o1 m k a0 
+ЁМКОСТЕЙ j o1 m k a0 sj tj i0 j 
+ЁМКОСТИ j o1 m k a0 sj tj i0 
+ЁМКОСТНЫМ j o1 m k a0 s n y0 m 
+ЁМКОСТНЫХ j o1 m k a0 s n y0 h 
+ЁМКОСТЬ j o1 m k a0 sj tj 
+ЁМКОСТЬЮ j o1 m k a0 sj tj j u0 
+ЁМКОСТЯХ j o1 m k a0 sj tj a0 h 
+ЁПЕРНЫЙ j o1 pj i0 r n y0 j 
+ЁПРСТ j o1 p r s t 
+ЁПРСТ j o1 p y0 r y0 s y0 t e1 
+ЁПТЫТЬ j o1 p t y0 tj 
+ЁПТЫТЬ j o1 p t a0 
+ЁПТЫТЬ j o1 p 
+ЁПТЫТЬ j o1 p t 
+ЁРЗАТЬ j o1 r z a0 tj 
+ЁРНИЧАТЬ j o1 r nj i0 ch a0 tj 
+ЁРНИЧАЮ j o1 r nj i0 ch i0 j u0 
+ЁСИХИКО j o1 sj i0 hj i1 k a0 
+ЁШКИН j o1 sh kj i0 n 
